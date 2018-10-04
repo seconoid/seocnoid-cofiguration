@@ -1,0 +1,1 @@
+# seocnoid-cofiguration
