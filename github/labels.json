@@ -1,0 +1,16 @@
+[
+  {"name": "Lv1","color": "3c7bf1"},
+  {"name": "Lv2","color": "62d331"},
+  {"name": "Lv3","color": "f7a025"},
+  {"name": "Lv4","color": "ff246a"},
+  {"name": "PR:WIP","color": "058907"},
+  {"name": "PR:feedback","color": "8dbcf4"},
+  {"name": "PR:review","color": "fbca04"},
+  {"name": "dev:back","color": "133ca4"},
+  {"name": "dev:front","color": "fae927"},
+  {"name": "type:bug","color": "ea0f0b"},
+  {"name": "type:environment","color": "006b75"},
+  {"name": "type:feature","color": "3f43ff"},
+  {"name": "type:refactor","color": "15a5f6"},
+  {"name": "type:update","color": "59d6a5"}
+]
